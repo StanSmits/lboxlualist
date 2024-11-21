@@ -1,2 +1,12 @@
-{"VacciBucks", "MvM Money Glitch", "https://raw.githubusercontent.com/Spark-Init/LBOX-Adventure/refs/heads/main/VacciBucks/vaccibucks.lua"},
-{"AutoFocus", "Automatically turns on Sniper's focus in MvM", "https://raw.githubusercontent.com/Spark-Init/LBOX-Adventure/refs/heads/main/VacciBucks/vaccibucks.lua"},
+[
+    {
+        "name": "VacciBucks",
+        "description": "MvM Money Glitch",
+        "url": "https://raw.githubusercontent.com/Spark-Init/LBOX-Adventure/refs/heads/main/VacciBucks/vaccibucks.lua"
+    },
+    {
+        "name": "AutoFocus",
+        "description": "Automatically turns on Sniper's focus in MvM",
+        "url": "https://raw.githubusercontent.com/Spark-Init/LBOX-Adventure/refs/heads/main/VacciBucks/vaccibucks.lua"
+    }
+]
